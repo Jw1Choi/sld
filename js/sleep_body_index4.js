@@ -164,7 +164,7 @@ testbody.innerHTML = `
 		
 							 <section  id="main_intro" class="backg" style="text-align: center;" >
 							 					  
-							 <img src="./img/sleep1.jpg" class="bg-img br50" style="min-height:1760px;max-height:1900px">
+							 <img src="./img/sleep1.jpg" class="bg-img br50" style="min-height:1060px;max-height:1300px">
 								
 							 <div class="img-text md-top3 lg-top5 top-space" style="font-size:21px;">
 							 <center>  <span class="timer " style="border:1px solid white;padding:8px 15px;font-size:13px; ">
@@ -172,11 +172,7 @@ testbody.innerHTML = `
 
 
 					   
-							 <center><h1><span class="questm ft-white">SLEEP & DIET<br>내 몸에 맞는 감량법 찾기<br>선착순 14차 무료 온라인 설문<br><br>
-							 <div style="text-align:-webkit-center;">
-							 <p style="border:1px solid #fff;width:80%;padding:15px;line-height:140%;max-width:450px;white-space:inherit !important;">"큰 노력 없이 2달 만에 <br>이렇게 쉽게 빠질 줄은 몰랐어요~"<br><br><span>56kg -> 48kg</span><br><br>- 38세 이OO님 실제 후기 -</p>
-							 </div>
-							 <img src="./img/3.png" style="width:80%;padding:0 0 30px;max-width:450px;"><br>여러분의 체형에 맞는<br>빠른 목표 달성을 위한<br>맞춤 감량 분석 무료 상담!<br></span></h1></center>
+						   <center><h1><span class="questm ft-white">SLEEP & DIET<br>NEW 수면 다이어트 프로그램<br>선착순 14차 무료 상담 혜택<br><br>갱년기 뱃살 관리가 어렵다면?<br>달라진 체질에 맞는<br>맞춤 감량 분석 무료 상담!<br></span></h1></center>
 
 					   
 						 <div class="row counters">
@@ -186,7 +182,7 @@ testbody.innerHTML = `
 						   </div>
 			   
 						   <div class="col-lg-4 col-4 text-center">
-							 <span class="counter">46,157</span><span> 명</span>
+							 <span class="counter">156,198</span><span> 명</span>
 							 <p>누적고객</p>
 						   </div>
 			   
@@ -201,13 +197,13 @@ testbody.innerHTML = `
 						   </div> -->
 						 </div>
 			   
-					   <center><p class="notice blink1">현재 페이지 한정<br>맞춤 감량 노하우<br>상담비 전액 지원!</p></center>
+					   <center><p class="notice blink1">현재 페이지 한정</p></center>
 					   <br>
 
 					   
 				   
 						 <center><input name="entry.intro" id="quest00_1" class="input_font quest00" type="radio" value="시작하기" style="text-align:center;" >
-						 <label class="label_button1 intro_click" id="start0" for="quest00_1" onclick="go_sub()"><span style="font-size: 16px;"></span><span >무료 설문 시작하기</span></label>
+						 <label class="label_button1 intro_click" id="start0" for="quest00_1" onclick="go_sub()"><span style="font-size: 16px;"></span><span >시작하기</span></label>
 						 
 						 
 						 <input class="agree" type="checkbox" name="agree11" id="agree11" value="개인정보동의" checked style="font-size:12px !important">
@@ -313,11 +309,10 @@ testbody.innerHTML = `
 						  <!--질문0번 SECTION-->	
 						  <section  id="quest0_wrap" class="wow fadeIn backg container1" >
 						  
-							  <img src="./img/mirror.jpg" class="bg-img br50" style="min-height:1060px;max-height:1300px">
+							  <img src="./img/mirror.jpg" class="bg-img br50" style="min-height:460px;max-height:500px">
 		
-							  <div class="wow fadeIn img-text ft-white" >	
-							
-	
+							  <div class="wow fadeIn img-text ft-white">	
+							  
 						  <!--질문 문구 부분 시작-->
 							  <center><h1><span class="questm ft-white">희망 목표</span></h1></center>
 						 
@@ -342,13 +337,6 @@ testbody.innerHTML = `
 					   <!-- end chat -->
 						  <center><input name="entry.quest0" id="quest0_1" class="input_font quest0 " type="radio" value="다음" style="text-align:center;" disabled="disabled">
 							  <label class="label_button1 click_goal_weight disabled" id="next_gw" for="quest0_1" style="text-align:Center;" onclick="go_weight()">다음</label></center>	
-
-
-							  <div style="text-align:-webkit-center;margin-top:70px;">
-							 <p style="border:1px solid #fff;width:80%;padding:15px;line-height:140%;max-width:450px;white-space:inherit !important;">"거울 볼 때마다 속상했는데<br>옷핏부터 완전 달라졌어요!"<br><br><span>58kg -> 50kg</span><br><br>- 32세 김OO님 실제 후기 -</p>
-							 </div>
-							 <img src="./img/5.jpg" style="width:80%;padding:0 0 30px;max-width:450px;">
-
 							  </div>
 		
 					  
@@ -398,7 +386,7 @@ testbody.innerHTML = `
 								  
 								  <!--'이전으로' 버튼 부분-->
 							  
-								  <img src="./img/mirror.jpg" class="bg-img br50" style="min-height:1060px;max-height:1300px">
+								  <img src="./img/mirror.jpg" class="bg-img br50" style="min-height:460px;max-height:500px">
 								 
 							  <div class="wow fadeIn img-text ft-white">	
 		
@@ -429,16 +417,6 @@ testbody.innerHTML = `
 	 <!-- end chat -->
 		<center><input name="entry.quest2" id="quest2_1" class="input_font click_weight quest2 " type="radio" value="다음" style="text-align:center;" disabled="disabled">
 		<label class="label_button1 disabled" id="next_nw" for="quest2_1" style="text-align:Center;" onclick="go_height()">다음</label></center>	
-
-
-
-		<div style="text-align:-webkit-center;margin-top:70px;">
-		<p style="border:1px solid #fff;width:80%;padding:15px;line-height:140%;max-width:450px;white-space:inherit !important;">"그렇게 뭘해도 안빠지던게<br>이렇게 쉽게 된다는게 신기해요"<br><br>- 47세 최OO님 실제 후기 -</p>
-		</div>
-		<img src="./img/body-weight.jpg" style="width:80%;padding:0 0 30px;max-width:450px;">
-
-		 </div>
-
 		</div>								   
 						 
 							  </section>	
@@ -454,7 +432,7 @@ testbody.innerHTML = `
 										 <div class="stepper-item"></div>
 								 <div class="stepper-item"></div>
 											 </div></center><br> -->
-											 <img src="./img/mirror.jpg" class="bg-img br50" style="min-height:1160px;max-height:1300px">
+											 <img src="./img/mirror.jpg" class="bg-img br50" style="min-height:460px;max-height:500px">
 											 
 											 <div class="wow fadeIn img-text ft-white">	
 											 <!--질문 문구 부분 시작-->
@@ -480,14 +458,6 @@ testbody.innerHTML = `
 										  <!-- end chat -->
 											 <center><input name="entry.quest3" id="quest3_1" class="input_font quest3 " type="radio" value="다음" style="text-align:center;" disabled="disabled">
 											 <label class="label_button1 click_height disabled" id="next_height" for="quest3_1" style="text-align:Center;" onclick="go_age()">다음</label></center>	
-											 
-<div style="text-align:-webkit-center;margin-top:70px;">
-		<p style="border:1px solid #fff;width:80%;padding:15px;line-height:140%;max-width:450px;white-space:inherit !important;">"육아하느라 신경도 못썼는데<br>결혼 전보다 더 빠졌어요."<br><br>63kg -> 53kg<br><br>- 37세 박OO님 실제 후기 -</p>
-		</div>
-		<img src="./img/hg-3.jpeg" style="width:80%;padding:0 0 30px;max-width:450px;">
-
-		
-
 											 </div>
 										  
 										  
@@ -495,7 +465,7 @@ testbody.innerHTML = `
 						 
 								 
 						 <section  id="quest4_wrap" class="wow fadeIn backg container1" >	
-						  <img src="./img/mirror.jpg" class="bg-img br50" style="min-height:1160px;max-height:1300px">
+						  <img src="./img/mirror.jpg" class="bg-img br50" style="min-height:460px;max-height:500px">
 						 
 						  <div class="wow fadeIn img-text ft-white">	
 							  <center><h1><span class="questm ft-white">나이</span></h1></center>
@@ -521,12 +491,6 @@ testbody.innerHTML = `
 									  <!-- end chat -->
 										 <center><input name="entry.quest4" id="quest4_1" class="input_font quest4 " type="radio" value="다음" style="text-align:center;" disabled="disabled">
 										 <label class="label_button1 click_age disabled" id="next_age" for="quest4_1" style="text-align:Center;" onclick="go_se()">다음</label></center>	
-
-
-										 <div style="text-align:-webkit-center;margin-top:70px;">
-		<p style="border:1px solid #fff;width:80%;padding:15px;line-height:140%;max-width:450px;white-space:inherit !important;">"갱년기로 불어난 살 빠지며<br>무릎도 편해졌어요 ^^"<br><br>70kg -> 58kg<br><br>- 52세 정OO님 실제 후기 -</p>
-		</div>
-		<img src="./img/hg-6.png" style="width:80%;padding:0 0 30px;max-width:450px;">
 										 </div>
 									  
 										 

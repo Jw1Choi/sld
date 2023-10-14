@@ -172,7 +172,7 @@ testbody.innerHTML = `
 
 
 					   
-							 <center><h1><span class="questm ft-white">SLEEP & DIET<br>NEW 수면 다이어트 프로그램<br>선착순 14차 무료 상담 혜택<br><br>점점 안빠져 고민이라면<br>안빠지는 원인을 알려드립니다.<br></span></h1></center>
+							 <center><h1><span class="questm ft-white">SLEEP & DIET<br>NEW 수면 다이어트 프로그램<br>선착순 14차 무료 상담 혜택<br><br>빠른 목표 달성을 위한<br>맞춤 감량 분석 무료 상담!<br></span></h1></center>
 
 					   
 						 <div class="row counters">
@@ -602,71 +602,36 @@ testbody.innerHTML = `
    
 						 <div class="wow fadeIn img-text ft-white">	
 				
-						 <center><h1 style="line-height:90%"><span class="questm ft-white">수면 다이어트<br>무료 체형 분석<br>목표 감량치 분석<br>상담 신청이 완료 되었습니다.<br><br>실질적인 도움과 안내를 위하여<br>전화를 통해 안내를 드리고 있습니다.<br>다만 부재시 감량을 도와드리지 못하니<br>꼭 전화를 받아주세요.<br><br>오로지 여러분의<br>건강한 감량만을 생각합니다.<br>-수면 다이어트-</span></h1></center>
+						 <center><h1 style="line-height:90%"><span class="questm ft-white">수면 다이어트<br>무료 체형 분석<br>목표 감량치 분석<br>상담 신청이 완료 되었습니다.<br><br>실질적인 도움과 안내를 위하여<br>전화를 통해 안내를 드리고 있습니다.<br>다만 부재시 감량을 도와드리지 못하니<br>꼭 전화를 받아주세요.<br><br>오로지 여러분의<br>건강한 감량만을 생각합니다.<br>-수면 다이어트-</span></h1>
 
 					
-
-					  <section id="clients" class="wow fadeInUp">
-					  <hr style="background-color:#fff;width:90%;margin-bottom:35px">
-					  <div class="container">
-
-				
-							<div class="owl-carousel clients-carousel">
-
-
-						<!-- flat slide -->
-						<!--	<div>  
-									
-										
-											<div class="row ">
-												<div class="col-lg-4 col-4 text-center">
-												<center><img class="img_slide" src="img/sleep.jpg" alt="" ></center>
-												</div>
-									
-												<div class="col-lg-8 col-8 text-center">
-												
-												<p class="txt-tip"></p>	
-												</div>
-		
-											</div>
-									</div> -->
-
-						<!-- end flat slide -->		
-
-
-								
-
-									<div>  
-									<p class="txt-tip">식약처 인증된 안전한 성분을 함께 활용해<br>체계적이고 효과적인 감량을 도와드립니다.</p>	
-										<center><img class="img_slide" src="img/sleep_product.png" alt="" ></center>
-											<div class="row ">
-												<div class="col-lg-4 col-4 text-center">
-												<span >500</span><span class="txt-tip">mg</span>
-												<p class="txt-tip">감태추출물<br>(수면 개선에 도움 줄 수 있음)</p>
-												</div>
-									
-												<div class="col-lg-4 col-4 text-center">
-												<span>500</span><span class="txt-tip">mg</span>
-												<p class="txt-tip">콜레우스포스콜리추출물<br>(체지방 감소 도움 줄 수 있음)</p>
-												</div>
-									
-												<div class="col-lg-4 col-4 text-center">
-												<center><img src="./img/gmp-ffood.png" class="gmp" style="padding:0 0"></center>
-												<p class="txt-tip">식약처 기능성 인증</p>
-												</div>
-									
-										
-											</div>
-									</div>
-							</div>
-							<hr style="background-color:#fff;width:90%">
-					  </div>
-	
-					</section>	
+						 <div style="width:100%;max-width:800px;text-align:-webkit-center">  
+						 <p class="txt-tip">식약처 인증된 안전한 성분을 함께 활용해<br>체계적이고 효과적인 감량을 도와드립니다.</p>	
+							 <center><img class="img_slide" src="img/sleep_product.png" alt="" ></center>
+								 <div class="row ">
+									 <div class="col-lg-4 col-4 text-center">
+									 <span >500</span><span class="txt-tip">mg</span>
+									 <p class="txt-tip">감태추출물<br>(수면 개선에 도움 줄 수 있음)</p>
+									 </div>
 						 
-						 </div>
+									 <div class="col-lg-4 col-4 text-center">
+									 <span>500</span><span class="txt-tip">mg</span>
+									 <p class="txt-tip">콜레우스포스콜리추출물<br>(체지방 감소 도움 줄 수 있음)</p>
+									 </div>
+						 
+									 <div class="col-lg-4 col-4 text-center">
+									 <center><img src="./img/gmp-ffood.png" class="gmp" style="padding:0 0"></center>
+									 <p class="txt-tip">식약처 기능성 인증</p>
+									 </div>
+						 
+							 
+								 </div>
+
+					
+						 
+						 </div></center>
    
-				 
+                         </div>
 							
 					 </section>
 							 

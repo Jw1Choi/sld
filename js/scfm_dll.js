@@ -5,11 +5,11 @@ function dzie111tion() {
  {
                
   $('#quest00_1').prop("disabled", false);
-  $('#start').css({transition:"1s"});
-      $('#start').css({background:"#1b1b1b"});
-      $('#start').css({border:"1px solid #fff"});
-      $('#start').css({color:"#fff"});
-      $('#start').css({cursor:"pointer"});
+  $('#start0').css({transition:"1s"});
+      $('#start0').css({background:"#1b1b1b"});
+      $('#start0').css({border:"1px solid #fff"});
+      $('#start0').css({color:"#fff"});
+      $('#start0').css({cursor:"pointer"});
       $('#alert_41').css({transition:"1s"});
       $('#alert_41').css({color:"#fff"});
       $('#alert_41').text('　');
@@ -17,11 +17,11 @@ function dzie111tion() {
 else {
     
       $('#quest00_1').prop("disabled", true);
-      $('#start').css({transition:"1s"});
-      $('#start').css({background:"transparent"});
-      $('#start').css({border:"1px solid #1b1b1b"});
-      $('#start').css({color:"#1b1b1b"});
-      $('#start').css({cursor:"unset"});
+      $('#start0').css({transition:"1s"});
+      $('#start0').css({background:"transparent"});
+      $('#start0').css({border:"1px solid #1b1b1b"});
+      $('#start0').css({color:"#1b1b1b"});
+      $('#start0').css({cursor:"unset"});
       $('#alert_41').css({transition:"1s"});
       $('#alert_41').css({color:"#fff"});
       $('#alert_41').text('개인정보동의를 확인하세요.');
