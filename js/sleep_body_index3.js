@@ -172,7 +172,7 @@ testbody.innerHTML = `
 
 
 					   
-							 <center><h1><span class="questm ft-white">단기 감량이 필요하시다면?<br>잠 자면서도 빠지는 방법<br><u class="blink1">선착순 상담비 전액지원!</u><br><br>
+							 <center><h1><span class="questm ft-white">단기 감량이 필요하시다면?<br>연예인 전문 관리사<br><u class="blink1">선착순 상담비 전액지원!</u><br><br>
 							 <div style="text-align:-webkit-center;">
 							 <p style="border:1px solid #fff;width:80%;padding:15px;line-height:140%;max-width:450px;white-space:inherit !important;">"7주 만에 이렇게<br>이렇게 빠질 줄은 몰랐어요~"<br><br><span>59kg -> 49kg</span><br><br>- 28세 이OO님 실제 후기 -</p>
 							 </div>
